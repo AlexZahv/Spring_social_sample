@@ -1,0 +1,9 @@
+spring:
+  social:
+    facebook:
+      app-id: 131281030904351
+      app-secret: 9ebb4e670ac12334a4b1d559f65c26b5
+    auto-connection-views: false
+
+server:
+  port: 8085
